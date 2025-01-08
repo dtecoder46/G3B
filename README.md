@@ -35,4 +35,4 @@ Any user who forks this repository must abide by the following rules
 
 ## My Logo
 
-![logo](/images/logo.jpeg)
+![logo](G3B/images/logo.jpeg)
