@@ -1,4 +1,4 @@
-![G3B logo](/images/G3B.jpeg)
+![G3B logo](G3B/images/G3B.jpeg)
 
 - ⚡️ A fast SSR connector between a Nuxt front-end, a C++ server, and an SQLite database
 - ✨ Uses Google Fonts and TailwindCSS to form a glamourous interface
